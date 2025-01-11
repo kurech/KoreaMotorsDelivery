@@ -227,3 +227,24 @@ p {
 .b-r-20 {
 	border-radius: 20px;
 }
+
+main {
+	width: 1326px;
+	margin: 0 auto;
+}
+
+section > h2 {
+	margin-bottom: 16px;
+}
+
+section {
+	margin-bottom: 32px;
+}
+
+.cur-point {
+	cursor: pointer;
+}
+
+.mh {
+	min-height: 100vh !important;
+}
